@@ -1,0 +1,11 @@
+id,title,brand,category,price,rating,description
+1,iPhone 9,Apple,smartphones,549,4.69,An apple mobile which is nothing like apple
+2,iPhone X,Apple,smartphones,899,4.44,"SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ..."
+3,Samsung Universe 9,Samsung,smartphones,1249,4.09,Samsung's new variant which goes beyond Galaxy to the Universe
+4,OPPOF19,OPPO,smartphones,280,4.3,OPPO F19 is officially announced on April 2021.
+5,Huawei P30,Huawei,smartphones,499,4.09,Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.
+6,MacBook Pro,Apple,laptops,1749,4.57,"MacBook Pro 2021 with mini-LED display may launch between September, November"
+7,Samsung Galaxy Book,Samsung,laptops,1499,4.25,"Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched"
+8,Microsoft Surface Laptop 4,Microsoft Surface,laptops,1499,4.43,Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.
+9,Infinix INBOOK,Infinix,laptops,1099,4.54,Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty
+10,HP Pavilion 15-DK1056WM,HP Pavilion,laptops,1099,4.43,"HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10"
